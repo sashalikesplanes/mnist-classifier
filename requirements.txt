@@ -1,0 +1,4 @@
+fastai==2.5.2
+voila
+ipywidgets
+opencv-python
